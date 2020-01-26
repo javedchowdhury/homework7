@@ -1,0 +1,16 @@
+{
+    "name": "homework7",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "Mohammad Chowdhury",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "inquirer": "^7.0.4",
+        "puppeteer": "^2.0.0"
+    }
+}
